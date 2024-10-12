@@ -1,6 +1,6 @@
 # UCM FDI Modelado de Software
 
-## Enlace al [repositorio de código](https://github.com/danielfdez17/royal-market-cod.git)
+## Enlace al [repositorio de código](https://github.com/danielfdez17/MS-codigo/)
 
 ## Modelo del proyecto de la asignatura MS
 - Modelo de despliegue
